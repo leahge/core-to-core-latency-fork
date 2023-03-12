@@ -53,6 +53,7 @@ fn main() {
 
     utils::show_cpuid_info();
     eprintln!("Num cores: {}", cores.len());
+    eprintln!("Test");
     eprintln!("Num iterations per samples: {}", args.num_iterations);
     eprintln!("Num samples: {}", args.num_samples);
     #[cfg(target_os = "macos")]

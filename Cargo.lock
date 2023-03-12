@@ -92,7 +92,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "core-to-core-latency"
+name = "core-to-core-latency-fork"
 version = "1.2.0"
 dependencies = [
  "ansi_term",

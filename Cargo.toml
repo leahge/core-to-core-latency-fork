@@ -1,8 +1,8 @@
 [package]
-name = "core-to-core-latency"
+name = "core-to-core-latency-fork"
 description = "Measures CPU core-to-core latency"
 authors = ["Nicolas Viennot <nicolas@viennot.com>"]
-repository = "https://github.com/nviennot/core-to-core-latency"
+repository = "https://github.com/leahge/core-to-core-latency-fork"
 license = "MIT"
 readme = "README.md"
 version = "1.2.0"
@@ -18,4 +18,4 @@ ansi_term = "0.12"
 ordered-float = "3"
 cache-padded = "1.2"
 crossbeam-utils = { version = "0.8", default-features = false }
-raw-cpuid = "10"
+raw-cpuid = "10"ß
